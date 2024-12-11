@@ -38,7 +38,7 @@ Implementation-of-ML-model-for-image-classification is a Streamlit app that inte
     pip install -r requirements.txt
 4. **Start the Streamlit app**:
     ```bash
-    streamlit run app.py
+    streamlit run newApp.py
 5. **Open the app**: 
     The app will open in your default web browser. If not, navigate to http://localhost:8501
 
